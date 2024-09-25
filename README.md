@@ -38,8 +38,7 @@ Links: GitHub Repository
 For any inquiries or additional information, feel free to reach out via email: MinmaharLin@gmail.com
 
 You can also connect with Minmahar on:
-GitHub
-LinkedIn
+Linkedin: https://www.linkedin.com/in/mlin21/
 
 ## License
 This project is licensed under the MIT License.
